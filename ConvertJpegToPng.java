@@ -1,6 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- */
 
 package com.mycompany.convert;
 
@@ -9,7 +6,7 @@ import java.awt.image.BufferedImage;
 import java.io.File;
 import java.io.IOException;
 
-public class ConvertJpegToPng {
+public class JpegToPngConverter {
 
     public static void main(String[] args) {
         // The path to the input JPEG image.
